@@ -1,5 +1,5 @@
 import numpy as np
-import joblib 
+import joblib.disk
 import streamlit as st
 
 #load the trained model
